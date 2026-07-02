@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/stephencreate/BatchPress/main/Resources/AppIcon.png" width="128" alt="BatchPress Icon"/>
+<img src="https://raw.githubusercontent.com/stephencreate/BatchPress/main/icon.png" width="128" alt="BatchPress Icon"/>
 
 # BatchPress
 
