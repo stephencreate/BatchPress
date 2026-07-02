@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>BatchPress Updates</title>
-        <link>https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/batchpress-releases/main/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/stephencreate/batchpress-releases/main/appcast.xml</link>
         <description>BatchPress update feed</description>
         <language>en</language>
 
@@ -15,7 +15,7 @@
             <sparkle:shortVersionString>5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/YOUR_GITHUB_USERNAME/batchpress-releases/releases/download/v5.0/BatchPress_v5.0.dmg"
+                url="https://github.com/stephencreate/BatchPress/releases/download/v5.0/BatchPress_v5.0.dmg"
                 sparkle:version="500"
                 sparkle:shortVersionString="5.0"
                 type="application/octet-stream"
@@ -39,7 +39,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/YOUR_GITHUB_USERNAME/batchpress-releases/releases/download/v5.1/BatchPress_v5.1.dmg"
+                url="https://github.com/stephencreate/BatchPress/releases/download/v5.0/BatchPress_v5.0.dmg"
                 sparkle:version="510"
                 sparkle:shortVersionString="5.1"
                 type="application/octet-stream"
