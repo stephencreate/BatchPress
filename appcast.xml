@@ -6,28 +6,25 @@
         <description>BatchPress update feed</description>
         <language>en</language>
 
-        <!-- VERSION 5.2 - current release -->
+        <!-- VERSION 5.3 - current release -->
         <item>
-            <title>BatchPress 5.2</title>
+            <title>BatchPress 5.3</title>
             <sparkle:releaseNotesLink>https://batchpress.carrd.co</sparkle:releaseNotesLink>
             <pubDate>Wed, 02 Jul 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>520</sparkle:version>
-            <sparkle:shortVersionString>5.2</sparkle:shortVersionString>
+            <sparkle:version>530</sparkle:version>
+            <sparkle:shortVersionString>5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h3>What's new in 5.2</h3>
+                <h3>What's new in 5.3</h3>
                 <ul>
-                    <li>Clickable status lights — open, close and focus Adobe apps directly from BatchPress</li>
-                    <li>Status lights fade smoothly between grey, orange and green</li>
-                    <li>Idle status message when no Adobe apps are open</li>
-                    <li>PDF presets reload automatically after InDesign opens</li>
-                    <li>BatchPress stays on top while Adobe apps launch</li>
+                    <li>Package button — batch collect InDesign files with all links and fonts into folders</li>
+                    <li>Package button only appears in InDesign mode</li>
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/stephencreate/BatchPress/releases/download/v5.2/BatchPress_v5.2.dmg"
-                sparkle:version="520"
-                sparkle:shortVersionString="5.2"
+                url="https://github.com/stephencreate/BatchPress/releases/download/v5.3/BatchPress_v5.3.dmg"
+                sparkle:version="530"
+                sparkle:shortVersionString="5.3"
                 type="application/octet-stream"
             />
         </item>
