@@ -42,7 +42,7 @@ Built specifically for print and production workflows where exporting dozens or 
 
 ## Screenshots
 
-<img width="784" height="739" alt="Xnapper-2026-07-02-18 15 37" src="https://github.com/user-attachments/assets/ed79c7c0-379a-4b4b-b680-caa9de20304f" />
+> _Screenshots coming soon_
 
 ---
 
