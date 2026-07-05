@@ -42,7 +42,7 @@ Built specifically for print and production workflows where exporting dozens or 
 
 ## Screenshots
 
-> _Screenshots coming soon_
+<img width="784" height="739" alt="Screenshot" src="https://github.com/user-attachments/assets/1f3566e1-ba85-4acf-ad32-6061febaddd7" />
 
 ---
 
