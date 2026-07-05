@@ -15,18 +15,33 @@
             <sparkle:shortVersionString>5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h3>What's new in 5.1</h3>
+                <h3>What's new in 5.2</h3>
                 <ul>
-                    <li>UI polish and stability improvements</li>
-                    <li>Orange file selection highlight in file list</li>
-                    <li>Open Output Folder button added</li>
-                    <li>Window no longer floats after export completes</li>
-                    <li>Licence window shows stored key when activated</li>
-                    <li>Update checker and Help menu added</li>
+                    <li>Clickable status lights — open, close and focus Adobe apps directly from BatchPress</li>
+                    <li>Status lights fade smoothly between grey, orange and green</li>
+                    <li>Idle status message when no Adobe apps are open</li>
+                    <li>PDF presets reload automatically after InDesign opens</li>
+                    <li>BatchPress stays on top while Adobe apps launch</li>
                 </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/stephencreate/BatchPress/releases/download/v5.2/BatchPress_v5.2.dmg"
+                sparkle:version="520"
+                sparkle:shortVersionString="5.2"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- VERSION 5.1 - previous release -->
+        <item>
+            <title>BatchPress 5.1</title>
+            <sparkle:releaseNotesLink>https://batchpress.carrd.co</sparkle:releaseNotesLink>
+            <pubDate>Wed, 02 Jul 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>510</sparkle:version>
+            <sparkle:shortVersionString>5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/stephencreate/BatchPress/releases/download/v5.1/BatchPress_v5.1.dmg"
                 sparkle:version="510"
                 sparkle:shortVersionString="5.1"
                 type="application/octet-stream"
