@@ -48,16 +48,12 @@ Built specifically for print and production workflows where exporting dozens or 
 
 ## Download
 
-Visit [batchpress.carrd.co](https://batchpress.carrd.co) to download the latest DMG.
-
-Or grab the latest release directly from the [Releases](../../releases) page.
+Grab the latest release directly from the [Releases](../../releases) page.
 
 **System requirements:**
 - macOS 13 (Ventura) or later
 - Apple Silicon or Intel Mac
 - Adobe InDesign and/or Adobe Photoshop (2021 or later recommended)
-
-**First launch:** Right-click the app → Open to bypass Gatekeeper (standard for apps distributed outside the App Store).
 
 ---
 
