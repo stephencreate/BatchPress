@@ -42,21 +42,22 @@ Built specifically for print and production workflows where exporting dozens or 
 
 ## Screenshots
 
-<img width="902" height="872" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b6e94bd6-c44d-4eba-b515-73e2dcaee283" /><img width="902" height="872" alt="Screenshot 3" src="https://github.com/user-attachments/assets/845d40c9-0da0-430a-9982-12d96180c8d7" />
-<img width="1180" height="872" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1b8a69c5-7821-4fe4-a3de-80ab488eee08" />
-
-
+> _Screenshots coming soon_
 
 ---
 
 ## Download
 
-Grab the latest release directly from the [Releases](../../releases) page.
+Visit [batchpress.carrd.co](https://batchpress.carrd.co) to download the latest DMG.
+
+Or grab the latest release directly from the [Releases](../../releases) page.
 
 **System requirements:**
 - macOS 13 (Ventura) or later
 - Apple Silicon or Intel Mac
 - Adobe InDesign and/or Adobe Photoshop (2021 or later recommended)
+
+**First launch:** Right-click the app → Open to bypass Gatekeeper (standard for apps distributed outside the App Store).
 
 ---
 
