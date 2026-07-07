@@ -42,8 +42,9 @@ Built specifically for print and production workflows where exporting dozens or 
 
 ## Screenshots
 
-<img width="784" height="739" alt="Screenshot" src="https://github.com/user-attachments/assets/3ca988cb-d953-4e90-979c-265d64229da2" /><img width="1554" height="1466" alt="Screenshot3" src="https://github.com/user-attachments/assets/c5534dcc-e64c-48db-a3b5-895b8f851468" />
-<img width="1554" height="1466" alt="Screenshot2" src="https://github.com/user-attachments/assets/e498208c-cce6-40c9-ac6e-2ab86eb6cefb" />
+<img width="902" height="872" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b6e94bd6-c44d-4eba-b515-73e2dcaee283" /><img width="902" height="872" alt="Screenshot 3" src="https://github.com/user-attachments/assets/845d40c9-0da0-430a-9982-12d96180c8d7" />
+<img width="1180" height="872" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1b8a69c5-7821-4fe4-a3de-80ab488eee08" />
+
 
 
 ---
