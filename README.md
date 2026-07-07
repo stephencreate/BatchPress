@@ -6,7 +6,7 @@
 
 **Batch export Adobe InDesign and Photoshop files — fast, headless, and without the clicks.**
 
-[![Version](https://img.shields.io/badge/version-5.4-orange)](#)
+[![Version](https://img.shields.io/badge/version-5.5-orange)](#)
 [![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-lightgrey)](#)
 [![License](https://img.shields.io/badge/licence-Commercial-orange)](#)
 
