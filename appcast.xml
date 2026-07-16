@@ -6,7 +6,31 @@
         <description>BatchPress update feed</description>
         <language>en</language>
 
-        <!-- VERSION 5.5 - current release -->
+        <!-- VERSION 5.6 - current release -->
+        <item>
+            <title>BatchPress 5.6</title>
+            <sparkle:releaseNotesLink>https://batchpress.carrd.co</sparkle:releaseNotesLink>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>560</sparkle:version>
+            <sparkle:shortVersionString>5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in 5.6</h3>
+                <ul>
+                    <li>Added Adobe Illustrator (.ai) support - batch export to JPEG or PNG with dedicated quality, DPI, color mode, and transparent-background settings</li>
+                    <li>Fixed a layout bug where the RGB/CMYK toggle overlapped the DPI field in the InDesign JPEG/PNG export settings</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/stephencreate/BatchPress/releases/download/v5.6/BatchPress_v5.6.dmg"
+                sparkle:version="560"
+                sparkle:shortVersionString="5.6"
+                sparkle:edSignature="FILL_IN_AFTER_SIGNING_DMG"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- VERSION 5.5 - previous release -->
         <item>
             <title>BatchPress 5.5</title>
             <sparkle:releaseNotesLink>https://batchpress.carrd.co</sparkle:releaseNotesLink>

@@ -6,7 +6,7 @@
 
 **Batch export Adobe InDesign and Photoshop files — fast, headless, and without the clicks.**
 
-[![Version](https://img.shields.io/badge/version-5.5-orange)](#)
+[![Version](https://img.shields.io/badge/version-5.6-orange)](#)
 [![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-lightgrey)](#)
 [![License](https://img.shields.io/badge/licence-Commercial-orange)](#)
 
@@ -42,9 +42,7 @@ Built specifically for print and production workflows where exporting dozens or 
 
 ## Screenshots
 
-<img width="902" height="872" alt="Screenshot 1" src="https://github.com/user-attachments/assets/223eef9d-734f-4e11-aec3-05c77f746f36" /><img width="902" height="872" alt="Screenshot 3" src="https://github.com/user-attachments/assets/d5735b92-86d7-46dc-a74e-52c1b30ac138" />
-<img width="1180" height="872" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1f6e8c16-2907-42af-9142-9c87f6042a0b" />
-
+> _Screenshots coming soon_
 
 ---
 
