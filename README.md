@@ -28,6 +28,8 @@ Built specifically for print and production workflows where exporting dozens or 
 
 - **Batch export InDesign files** to PDF (using your own saved PDF presets), JPEG, or PNG
 - **Batch export Photoshop files** to JPEG, PNG, TIFF, or PDF
+- **Batch export Illustrator files** to JPEG or PNG
+- **Batch export EPS Files** to JPEG or PNG
 - **Headless operation** — launches Adobe apps automatically if not already running, runs scripts silently, and returns BatchPress to the front when done
 - **Drag and drop** file loading with individual file cards, folder collation support
 - **Per-format settings** — quality, DPI, colour mode (RGB/CMYK/Greyscale), resampling, metadata, smart sharpen, resize to longest edge, update links, spreads
