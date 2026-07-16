@@ -4,7 +4,7 @@
 
 # BatchPress
 
-**Batch export Adobe InDesign and Photoshop files — fast, headless, and without the clicks.**
+**Batch export Adobe InDesign, Photoshop and Illustrator files — fast, headless, and without the clicks.**
 
 [![Version](https://img.shields.io/badge/version-5.6-orange)](#)
 [![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-lightgrey)](#)
