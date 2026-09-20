@@ -4,13 +4,13 @@
 
 # BatchPress
 
-**Batch export Adobe InDesign, Photoshop and Illustrator files — fast, headless, and without the clicks.**
+**Batch export Adobe InDesign, Photoshop, and Illustrator files — fast, headless, and without the clicks.**
 
-[![Version](https://img.shields.io/badge/version-5.6-orange)](#)
+[![Version](https://img.shields.io/badge/version-5.7-orange)](#)
 [![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-lightgrey)](#)
 [![License](https://img.shields.io/badge/licence-Commercial-orange)](#)
 
-[Download](#download) · [Features](#features) · [How It Works](#how-it-works) · [Buy a Licence](https://stephencreate.gumroad.com/l/BatchPress) · [Website](https://batchpress.carrd.co)
+[Download](#download) · [Features](#features) · [How It Works](#how-it-works) · [Buy a Licence](https://batchpress.carrd.co) · [Website](https://batchpress.carrd.co)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## What is BatchPress?
 
-BatchPress is a native macOS utility built for designers and studios who need to export large numbers of Adobe InDesign (`.indd`) and Photoshop (`.psd`) files without babysitting the process. Drop your files in, set your export settings once, and let BatchPress do the rest — running entirely headless through InDesign and Photoshop in the background.
+BatchPress is a native macOS utility built for designers and studios who need to export large numbers of Adobe InDesign (`.indd`), Photoshop (`.psd`), and Illustrator (`.ai` / `.eps`) files without babysitting the process. Drop your files in, set your export settings once, and let BatchPress do the rest — running entirely headless through InDesign, Photoshop, and Illustrator in the background.
 
 Built specifically for print and production workflows where exporting dozens or hundreds of files manually is simply not an option.
 
@@ -28,13 +28,14 @@ Built specifically for print and production workflows where exporting dozens or 
 
 - **Batch export InDesign files** to PDF (using your own saved PDF presets), JPEG, or PNG
 - **Batch export Photoshop files** to JPEG, PNG, TIFF, or PDF
-- **Batch export Illustrator files** to JPEG or PNG
-- **Batch export EPS Files** to JPEG or PNG
+- **Batch export Illustrator files** (`.ai` and `.eps`) to JPEG or PNG, including automatic per-artboard export for multi-artboard documents
+- **Custom filename suffix** — add your own suffix to every exported filename in a batch, across all formats
 - **Headless operation** — launches Adobe apps automatically if not already running, runs scripts silently, and returns BatchPress to the front when done
 - **Drag and drop** file loading with individual file cards, folder collation support
-- **Per-format settings** — quality, DPI, colour mode (RGB/CMYK/Greyscale), resampling, metadata, smart sharpen, resize to longest edge, update links, spreads
+- **Per-format settings** — quality, DPI, colour mode (RGB/CMYK/Greyscale), resampling, metadata, smart sharpen, resize to longest edge, update links, spreads, transparency
 - **Preview mode** — export just the first file to check settings before committing the full batch
-- **Progress tracking** with elapsed time display
+- **Progress tracking** with elapsed time display and a detailed per-file export log
+- **Watched folders** — automatically export files dropped into a folder, including InDesign hot folder detection
 - **Open Output Folder** shortcut to jump straight to exported files in Finder
 - **7-day free trial** — no account required, no sign-up
 - **Licence key activation** — single purchase, permanent, stored locally
@@ -57,7 +58,7 @@ Or grab the latest release directly from the [Releases](../../releases) page.
 **System requirements:**
 - macOS 13 (Ventura) or later
 - Apple Silicon or Intel Mac
-- Adobe InDesign and/or Adobe Photoshop (2021 or later recommended)
+- Adobe InDesign, Photoshop, and/or Illustrator (2021 or later recommended)
 
 **First launch:** Right-click the app → Open to bypass Gatekeeper (standard for apps distributed outside the App Store).
 
@@ -65,10 +66,10 @@ Or grab the latest release directly from the [Releases](../../releases) page.
 
 ## How It Works
 
-BatchPress injects export settings and file paths as JavaScript variables into Adobe's own JSX scripting engine, then triggers the script via AppleScript. This means it uses InDesign and Photoshop's native export pipeline — the same quality as exporting manually, just without any of the clicks.
+BatchPress injects export settings and file paths as JavaScript variables into Adobe's own JSX scripting engine, then triggers the script via AppleScript. This means it uses InDesign, Photoshop, and Illustrator's native export pipeline — the same quality as exporting manually, just without any of the clicks.
 
 ```
-Your files → BatchPress → JSX script → InDesign / Photoshop → Output files
+Your files → BatchPress → JSX script → InDesign / Photoshop / Illustrator → Output files
 ```
 
 No plugins. No extensions. No cloud. Everything runs locally on your Mac.
@@ -81,6 +82,7 @@ No plugins. No extensions. No cloud. Everything runs locally on your Mac.
 |-------|---------------|
 | `.indd` (InDesign) | PDF, JPEG, PNG |
 | `.psd` / `.psb` (Photoshop) | JPEG, PNG, TIFF, PDF |
+| `.ai` / `.eps` (Illustrator) | JPEG, PNG (multi-artboard files export one image per artboard automatically) |
 
 ---
 
@@ -90,7 +92,7 @@ BatchPress is commercial software with a **7-day free trial**.
 
 After the trial period, a licence key is required to continue using the app. Licence keys are available at:
 
-**[stephencreate.gumroad.com/l/BatchPress](https://stephencreate.gumroad.com/l/BatchPress)**
+**[batchpress.carrd.co](https://batchpress.carrd.co)**
 
 Licence keys are:
 - Tied to a single purchase
@@ -112,7 +114,7 @@ When a new version is available, BatchPress will prompt you to download it. Upda
 Developed by **Stephen Underwood**  
 [batchpress.carrd.co](https://batchpress.carrd.co)
 
-BatchPress is an independent tool and is not affiliated with or endorsed by Adobe Inc. Adobe InDesign and Adobe Photoshop are trademarks of Adobe Inc.
+BatchPress is an independent tool and is not affiliated with or endorsed by Adobe Inc. Adobe InDesign, Adobe Photoshop, and Adobe Illustrator are trademarks of Adobe Inc.
 
 ---
 
