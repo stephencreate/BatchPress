@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/stephencreate/BatchPress/main/icon.png" width="128" alt="BatchPress Icon"/>
-<img width="826" height="825" alt="icon3sept26" src="https://github.com/user-attachments/assets/c79b12b4-5c55-44a8-a6d9-0c707012225b" />
+<img width="128" height="128" alt="icon3sept26" src="https://github.com/user-attachments/assets/c79b12b4-5c55-44a8-a6d9-0c707012225b" />
 
 
 # BatchPress
