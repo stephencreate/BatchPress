@@ -6,7 +6,35 @@
         <description>BatchPress update feed</description>
         <language>en</language>
 
-        <!-- VERSION 5.6 - current release -->
+        <!-- VERSION 5.7 - current release -->
+        <item>
+            <title>BatchPress 5.7</title>
+            <sparkle:releaseNotesLink>https://batchpress.carrd.co</sparkle:releaseNotesLink>
+            <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>570</sparkle:version>
+            <sparkle:shortVersionString>5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in 5.7</h3>
+                <ul>
+                    <li>Full Adobe Illustrator (.ai) and EPS support - batch export to JPEG or PNG, including automatic per-artboard export for multi-artboard files</li>
+                    <li>New custom filename suffix field - add your own suffix to every exported filename, across all formats</li>
+                    <li>Fixed a range of Illustrator export reliability issues: file paths with colons or special characters, filenames with spaces being altered on export, and export timing/verification accuracy</li>
+                    <li>Switched to a new app icon</li>
+                    <li>Purchase link now points to batchpress.carrd.co</li>
+                    <li>Various UI and stability fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/stephencreate/BatchPress/releases/download/v5.7/BatchPress_v5.7.dmg"
+                sparkle:version="570"
+                sparkle:shortVersionString="5.7"
+                sparkle:edSignature="FILL_IN_AFTER_SIGNING_DMG"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- VERSION 5.6 - previous release -->
         <item>
             <title>BatchPress 5.6</title>
             <sparkle:releaseNotesLink>https://batchpress.carrd.co</sparkle:releaseNotesLink>
