@@ -6,7 +6,32 @@
         <description>BatchPress update feed</description>
         <language>en</language>
 
-        <!-- VERSION 5.7 - current release -->
+        <!-- VERSION 5.8 - current release -->
+        <item>
+            <title>BatchPress 5.8</title>
+            <sparkle:releaseNotesLink>https://batchpress.carrd.co</sparkle:releaseNotesLink>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>580</sparkle:version>
+            <sparkle:shortVersionString>5.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in 5.8</h3>
+                <ul>
+                    <li>Fixed the filename suffix being applied twice when exporting from Photoshop (PSD to JPEG, PNG, TIFF or PDF)</li>
+                    <li>You can now paste (Cmd+V) into the licence key box, and key entry is more forgiving of stray spaces or dashes</li>
+                    <li>Fixed the update check offering the version you already have installed</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/stephencreate/BatchPress/releases/download/v5.8/BatchPress_v5.8.dmg"
+                sparkle:version="580"
+                sparkle:shortVersionString="5.8"
+                sparkle:edSignature="FILL_IN_AFTER_SIGNING_DMG"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- VERSION 5.7 - previous release -->
         <item>
             <title>BatchPress 5.7</title>
             <sparkle:releaseNotesLink>https://batchpress.carrd.co</sparkle:releaseNotesLink>

@@ -1,13 +1,12 @@
 <div align="center">
 
-<img width="128" height="128" alt="icon3sept26" src="https://github.com/user-attachments/assets/c79b12b4-5c55-44a8-a6d9-0c707012225b" />
-
+<img src="https://raw.githubusercontent.com/stephencreate/BatchPress/main/icon.png" width="128" alt="BatchPress Icon"/>
 
 # BatchPress
 
 **Batch export Adobe InDesign, Photoshop, and Illustrator files — fast, headless, and without the clicks.**
 
-[![Version](https://img.shields.io/badge/version-5.7-orange)](#)
+[![Version](https://img.shields.io/badge/version-5.8-orange)](#)
 [![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-lightgrey)](#)
 [![License](https://img.shields.io/badge/licence-Commercial-orange)](#)
 
@@ -46,10 +45,7 @@ Built specifically for print and production workflows where exporting dozens or 
 
 ## Screenshots
 
-<img width="784" height="739" alt="Screenshot" src="https://github.com/user-attachments/assets/f6d53b62-c0a4-42a3-a2ef-eb8d8f4d4d9f" />
-<img width="1554" height="1466" alt="Screenshot2" src="https://github.com/user-attachments/assets/03857fb7-4453-4cdd-90d6-5dca82f16b54" />
-<img width="1554" height="1466" alt="Screenshot3" src="https://github.com/user-attachments/assets/84e4e1fc-93e4-4750-b4cb-3cff9456d247" />
-
+> _Screenshots coming soon_
 
 ---
 
